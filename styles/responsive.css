@@ -1,0 +1,14 @@
+/* responsive media queries */
+/* mobile devices */
+@media screen and (max-width: 576px) {
+    nav,
+    .nav-anchor,
+    .nav-container,
+    .follow,
+    .section-01,
+    .banner-flex,
+    .banner-container{
+        padding: 20px;
+        flex-direction: column;
+    }
+    }
